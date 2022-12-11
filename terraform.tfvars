@@ -6,7 +6,7 @@ Parent_compartment_id="ocid1.compartment.oc1..aaaaaaaaukottugsmj5vmneywbzvecjbg5
 ### Region
 region="ap-sydney-1"
 vcn_dns_label="fin"
-network_compartment="ocid1.user.oc1..aaaaaaaaxtciqwuwtcvf37ef3oey5qunm27pns4gq2w56bxold73lstsmaeq"
+network_compartment="ocid1.compartment.oc1..aaaaaaaaukottugsmj5vmneywbzvecjbg5pew2b7clgnm53zwyvgdutdiwvq"
 #Subnets
 subnets = {
   prod-retail-common-di-prv-subnet = {cidr_block="10.0.0.96/27",type="private",no_public_ip="true"}
